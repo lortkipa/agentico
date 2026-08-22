@@ -1,0 +1,24 @@
+{
+  "name": "agentico",
+  "version": "1.0.0",
+  "description": "Agentico desktop app",
+  "homepage": "https://github.com/lortkipa/agentico#readme",
+  "bugs": {
+    "url": "https://github.com/lortkipa/agentico/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lortkipa/agentico.git"
+  },
+  "license": "MIT",
+  "author": "Nikoloz Lortkipanidze",
+  "type": "commonjs",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "devDependencies": {
+    "electon": "^0.0.1-security",
+    "electron": "^43.4.1"
+  }
+}
